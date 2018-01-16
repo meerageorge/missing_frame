@@ -1,5 +1,5 @@
 # missing_frame
-print the frame range of an animated seq listing out missing frames
+print the frame range of an animated seq listing out available frames. This will help detect missing frames.
 
 
 
@@ -18,8 +18,8 @@ result :
 ## Getting Started
 
 the program take an input from the user to be entered in the terminal:
+"path of the seq folder"
+
+based on this input it iterates through the files in the given input folder.
 
 
-		path of the seq folder
-
-and then running the code again will give the required result
